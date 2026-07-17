@@ -8,11 +8,11 @@
 
 ## About Me
 
-> **"With great power comes great responsibility."** — Spider-Man
+> **"With great power comes great responsibility."** — Spider Man
 
 Building products is more fun than collecting tutorial certificates.
 
-I enjoy building full-stack applications, integrating GenAI into real products, designing scalable backends, and shipping ideas that people can actually use.
+I enjoy building full stack applications, integrating GenAI into real products, designing scalable backends, and shipping ideas that people can actually use.
 
 ---
 
@@ -82,7 +82,7 @@ I enjoy building full-stack applications, integrating GenAI into real products, 
 
 <p align="center">
   <a href="https://youtu.be/STNAG8hqJO8?si=UeKJJdZPCjqsLd_k">
-    <img src="https://img.youtube.com/vi/STNAG8hqJO8/maxresdefault.jpg" width="800" alt="Featured Video"/>
+    <img src="https://img.youtube.com/vi/STNAG8hqJO8/maxresdefault.jpg" width="800" style="border-radius: 12px;" alt="Featured Video"/>
   </a>
 </p>
 
