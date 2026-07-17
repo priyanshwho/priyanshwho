@@ -10,7 +10,7 @@
   <img src="priyansh.jpg" width="100%" style="border-radius: 12px;" alt="Priyanshu Anand" />
 </p>
 
-> **"With great power comes great responsibility."** — Spider Man
+> **"With great power comes great responsibility."** 
 
 Building products is more fun than collecting tutorial certificates.
 
@@ -28,15 +28,15 @@ I enjoy building full stack applications, integrating GenAI into real products, 
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | GitHub | Demo |
-| :------ | :---------- | :--------- | :----- | :--- |
-| **EduSphere** | AI-powered education platform for smarter learning. | Next.js • Node.js • MongoDB • OpenAI | [GitHub](#) | [Demo](#) |
-| **Argan AI** | AI-powered application focused on practical productivity. | React • TypeScript • OpenAI | [GitHub](#) | [Demo](#) |
-| **PR Panda** | AI-powered content & productivity assistant. | Next.js • PostgreSQL • Express | [GitHub](#) | [Demo](#) |
-| **KRISHI** | Agriculture-focused digital platform. | React • Node.js • MongoDB | [GitHub](#) | [Demo](#) |
-| **LaFleure IQ** | AI productivity workspace. | Next.js • TypeScript • Firebase | [GitHub](#) | [Demo](#) |
-| **Churn Analysis Dashboard** | Business analytics dashboard for customer retention insights. | Python • SQL • PostgreSQL | [GitHub](#) | [Demo](#) |
-| **Portfolio Website** | Personal portfolio showcasing projects and experience. | Next.js • Tailwind CSS • TypeScript | [GitHub](#) | [Demo](https://www.priyanshu.cv/) |
+| Project | Description | Tech Stack | Live |
+| :------ | :---------- | :--------- | :--- |
+| **EduSphere** | AI-powered education platform for smarter learning. | Next.js • Node.js • MongoDB • OpenAI | [Live](https://edusphere.live) |
+| **Argon AI** | AI-powered application focused on practical productivity. | React • TypeScript • OpenAI | [Live](https://argon.priyanshu.cv) |
+| **PR Panda** | AI-powered content & productivity assistant. | Next.js • PostgreSQL • Express | [Live](https://prpanda.priyanshu.cv) |
+| **Kishansathi** | Agriculture-focused digital platform. | React • Node.js • MongoDB | [Live](https://kishansaathi.priyanshu.cv/) |
+| **LaFleure IQ** | AI productivity workspace. | Next.js • TypeScript • Firebase | [Live](https://lafleuriq.vercel.app/) |
+| **Churn Analysis Dashboard** | Business analytics dashboard for customer retention insights. | Python • SQL • PostgreSQL | [Live](https://customer-churn-prediction11.streamlit.app/) |
+| **Portfolio Website** | Personal portfolio showcasing projects and experience. | Next.js • Tailwind CSS • TypeScript | [Live](https://priyanshu.cv) |
 
 ---
 
