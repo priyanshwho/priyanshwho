@@ -1,5 +1,3 @@
-<img align="right" src="priyansh.jpg" width="180" style="border-radius: 50%; margin-left: 20px;" alt="Priyanshu Anand" />
-
 # Priyanshu Anand
 
 <h3 align="left">Full-Stack Developer • GenAI Developer</h3>
@@ -7,6 +5,10 @@
 ---
 
 ## About Me
+
+<p align="center">
+  <img src="priyansh.jpg" width="100%" style="border-radius: 12px;" alt="Priyanshu Anand" />
+</p>
 
 > **"With great power comes great responsibility."** — Spider Man
 
