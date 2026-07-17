@@ -1,62 +1,105 @@
-# Hi, I'm Priyansh 👋
+# Priyanshu Anand
 
-🎓 **B.E. (Information Technology)** — UIET, Panjab University  
-💻 Building in **Web Development** and exploring **Artificial Intelligence**  
-🤝 Open to collaborating on **Open Source** and **innovative tech projects**
+<h3 align="left">Full-Stack Developer • GenAI Developer</h3>
 
 ---
 
-## 🚀 What I’m focusing on
-- 🌐 Full‑stack web development (clean UI + solid backend)
-- 🧠 AI/ML fundamentals & practical projects
-- 🛠️ Writing better code, building real products, and learning by shipping
+## About Me
+
+> **"With great power comes great responsibility."** — Spider-Man
+
+Building products is more fun than collecting tutorial certificates.
+
+I enjoy building full-stack applications, integrating GenAI into real products, designing scalable backends, and shipping ideas that people can actually use.
 
 ---
 
-## 🌐 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/841682745519505408)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/priyans_exe/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanswho/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/priyanswhoo/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/priyanswho)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyans.exe@gmail.com)
+## Tech I Enjoy Working With
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,firebase,docker,git,github,linux,figma,vscode,postman&perline=9" />
+</p>
 
 ---
 
-## 💻 Tech Stack
-**Languages:** C++, TypeScript, JavaScript  
-**Frontend:** React, Next.js, Tailwind CSS, Chakra UI, Bootstrap, Vite  
-**Backend:** Node.js, FastAPI, JWT, Socket.io  
-**Database/ORM:** MongoDB, PostgreSQL, Prisma, Supabase, Firebase  
-**Cloud/Deploy:** AWS, Vercel, Netlify, Render, Heroku  
-**Tools:** Git/GitHub, Postman, Figma, Canva
+## Featured Projects
 
-> If you want, I can reorganize this into badge rows again—this text version is more readable and loads faster.
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=priyanshwho&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=priyanshwho&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshwho&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Project | Description | Tech Stack | GitHub | Demo |
+| :------ | :---------- | :--------- | :----- | :--- |
+| **EduSphere** | AI-powered education platform for smarter learning. | Next.js • Node.js • MongoDB • OpenAI | [GitHub](#) | [Demo](#) |
+| **Argan AI** | AI-powered application focused on practical productivity. | React • TypeScript • OpenAI | [GitHub](#) | [Demo](#) |
+| **PR Panda** | AI-powered content & productivity assistant. | Next.js • PostgreSQL • Express | [GitHub](#) | [Demo](#) |
+| **KRISHI** | Agriculture-focused digital platform. | React • Node.js • MongoDB | [GitHub](#) | [Demo](#) |
+| **LaFleure IQ** | AI productivity workspace. | Next.js • TypeScript • Firebase | [GitHub](#) | [Demo](#) |
+| **Churn Analysis Dashboard** | Business analytics dashboard for customer retention insights. | Python • SQL • PostgreSQL | [GitHub](#) | [Demo](#) |
+| **Portfolio Website** | Personal portfolio showcasing projects and experience. | Next.js • Tailwind CSS • TypeScript | [GitHub](#) | [Demo](https://www.priyanshu.cv/) |
 
 ---
 
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanshwho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Currently Learning
+
+* System Design
+* AI Agents
+* LLM Engineering
+* Cloud Computing
+* Docker
 
 ---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/priyanshwho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.priyanshu.cv/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:priyanshu82711@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/priyanshwho">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/priyanswho">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/@priyanswhoo">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanshwho&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+## Featured Video
+
+<p align="center">
+  <a href="https://youtu.be/STNAG8hqJO8?si=UeKJJdZPCjqsLd_k">
+    <img src="https://img.youtube.com/vi/STNAG8hqJO8/maxresdefault.jpg" width="800" alt="Featured Video"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Watch the complete project walkthrough on YouTube.</strong>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=priyanshwho&icon=0&color=0)](https://visitcount.itsvg.in)
+## Fun Facts
 
-<!-- Customized from GPRM ( https://gprm.itsvg.in ) -->
+* I build more projects than I finish Netflix shows.
+* AI is my favorite debugging partner.
+* I enjoy solving backend problems.
+* I learn by building.
+* Always exploring new technologies.
+
+---
+
+## Quote
+
+> **"Building software that people love to use."**
