@@ -1,3 +1,5 @@
+<img align="right" src="priyansh.jpg" width="180" style="border-radius: 50%; margin-left: 20px;" alt="Priyanshu Anand" />
+
 # Priyanshu Anand
 
 <h3 align="left">Full-Stack Developer • GenAI Developer</h3>
